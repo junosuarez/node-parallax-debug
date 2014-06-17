@@ -1,9 +1,13 @@
 # parallax-debug
 make it easier to develop parallax scrolling sites
 
+![](http://i.imgur.com/EjcJc4P.gif)
+
 ## usage
+Best used with Browserify. Add it to your site with:
+
 ```js
-var parallaxDebug = require('parallax-debug')
+require('parallax-debug')()
 ```
 
 
@@ -17,11 +21,7 @@ var parallaxDebug = require('parallax-debug')
 
 ## running the tests
 
-From package root:
-
-    $ npm install
-    $ npm test
-
+welp. there aren't any.
 
 ## contributors
 
